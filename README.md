@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**abdulrahman-basem/abdulrahman-basem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abdulrahman Basem 👋
 
-Here are some ideas to get you started:
+### Computer Science Student | Networking | IT Infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student interested in Networking, IT Infrastructure, and Cloud Technologies.
+
+- 🎓 Computer Science Student
+- 🌐 CCNA Studies Completed
+- 💻 Practicing Networking with Cisco Packet Tracer
+- 🐧 Learning Linux and Ubuntu
+- ☁️ Interested in Cloud Computing and DevOps
+- 🎯 Goal: Build practical IT skills and contribute to real-world projects
+
+### Technical Skills
+
+- **Networking:** TCP/IP, VLANs, Trunking, STP, Routing, ACLs, NAT
+- **Tools:** Cisco Packet Tracer, Linux, Ubuntu
+- **Programming:** Python, C++
+- **Currently Learning:** Networking, Linux, Cloud Fundamentals
+
+### Career Interests
+
+Networking | IT Support | NOC | Cloud | DevOps
+
+---
+
+*Always learning, practicing, and building.*
