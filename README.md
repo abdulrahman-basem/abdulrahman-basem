@@ -1,28 +1,30 @@
+# Hi, I'm Abdulrahman 👋
 
-# Hi, I'm Abdulrahman Basem 👋
+🎓 Computer Science Student  
+🌐 CCNA Completed | Networking Enthusiast  
+☁️ Interested in Cloud Computing and DevOps
 
-### Computer Science Student | Networking | IT Infrastructure
+## About Me
+- Studying Computer Science.
+- Building hands-on networking labs using Cisco Packet Tracer.
+- Practicing routing, switching, VLANs, and network troubleshooting.
+- Currently developing my skills in Networking, Linux, and Cloud Computing.
 
-I'm a Computer Science student interested in Networking, IT Infrastructure, and Cloud Technologies.
+## Skills & Technologies
+- Networking: CCNA, IPv4, VLANs, Trunking, STP, Static Routing, NAT/PAT, ACLs
+- Tools: Cisco Packet Tracer
+- Programming: Python, C++
 
-- 🎓 Computer Science Student
-- 🌐 CCNA Studies Completed
-- 💻 Practicing Networking with Cisco Packet Tracer
-- 🐧 Learning Linux and Ubuntu
-- ☁️ Interested in Cloud Computing and DevOps
-- 🎯 Goal: Build practical IT skills and contribute to real-world projects
+## Featured Project
+### CCNA Multi-Router Lab
+A hands-on Cisco Packet Tracer project featuring multiple routers, VLANs, and inter-network connectivity.
 
-### Technical Skills
+[View Project](https://github.com/abdulrahman-basem/ccna-multi-router-lab)
 
-- **Networking:** TCP/IP, VLANs, Trunking, STP, Routing, ACLs, NAT
-- **Tools:** Cisco Packet Tracer, Linux, Ubuntu
-- **Programming:** Python, C++
-- **Currently Learning:** Networking, Linux, Cloud Fundamentals
-
-### Career Interests
-
-Networking | IT Support | NOC | Cloud | DevOps
+## Current Learning Goals
+- Strengthen networking fundamentals
+- Improve Linux skills
+- Progress toward Cloud Computing and DevOps
 
 ---
-
-*Always learning, practicing, and building.*
+*Always learning, building, and improving.*
